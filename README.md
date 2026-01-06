@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Othmane FERRAH</h1>
 <h3 align="center">
-Master’s Student in AI & Data Science • Computer Scientist • Designer • Tech Leader
+Master’s Student in AI & Data Science • Computer Scientist • Designer 
 </h3>
 
 <p align="center">
