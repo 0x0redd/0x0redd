@@ -22,11 +22,4 @@
 <div align="center">
 <br >
 
-<a href="https://github.com/0x0redd">
-	<div>
-		<div style="display:flex;">
-  			<img src="https://streak-stats.demolab.com?user=0x0redd&theme=react&card_width=400" alt="GitHub Streak" style="text-align: left"/>
-	 		<img src="https://github-readme-stats.vercel.app/api?username=0x0redd&show_icons=true&theme=react&rank_icon=github&card_width=300" alt="khalilelamraoui"/>
-		</div>
-	</div>
-</a>
+
