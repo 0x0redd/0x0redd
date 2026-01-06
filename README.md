@@ -67,10 +67,7 @@ Master’s Student in AI & Data Science • Computer Scientist • Designer • 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0x0redd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-
+ 
 ### 🚀 Featured Projects
 
 - 🤖 **AI & Computer Vision Systems**  
